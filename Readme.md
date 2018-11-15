@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[LayoutGroupEx.cs](./CS/LayoutGroupEx.cs) (VB: [LayoutGroupEx.vb](./VB/LayoutGroupEx.vb))**
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+<!-- default file list end -->
 # How to place LayoutPanel into the Group, GroupBox, or Tabbed group
 
 
