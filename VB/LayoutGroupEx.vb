@@ -1,10 +1,7 @@
-﻿Imports System
-Imports System.Collections.Generic
-Imports System.Linq
-Imports System.Text
 Imports DevExpress.Xpf.Docking
 
 Namespace CustomLayoutGroup.Common
+
     Public Class LayoutGroupEx
         Inherits LayoutGroup
 
